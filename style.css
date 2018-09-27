@@ -4,7 +4,7 @@
     -webkit-user-select: none;
 }
 
-a { color: #FC0; cursor: pointer; }
+a { color: #FC0; cursor: pointer; text-decoration: none; }
 table { border-collapse: collapse; }
 td { padding: 0; vertical-align: top; }
 body {
